@@ -1,0 +1,4 @@
+* text=auto !eol
+/apertium-br-cy.br-cy.dix -text
+/apertium-br-cy.br-cy.rlx -text
+/apertium-br-cy.br.acx -text
